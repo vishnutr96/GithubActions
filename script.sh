@@ -1,3 +1,7 @@
 #!/bin/bash
 
-My sample script
+# This is a sample Bash script
+
+echo "Hello, world!"
+echo "This is my sample script."
+
